@@ -1,0 +1,75 @@
+{
+  "app.title": "Generator Kart - InGraw Co",
+
+  "menu.language": "Język",
+
+  "menu.advanced": "Wszystkie karty",
+  "menu.info": "Info",
+
+  "info.text": "InGraw Generator Kart\nAutor: Mateusz Lademann (InGraw Co)\n2025 V1.0",
+
+  "lang.info": "Restart",
+  "lang.restart": "Aplikacja zostanie zrestartowana aby zastosować język.",
+
+  "error.config.title": "Błąd konfiguracji",
+  "error.config.missing": "Brak pliku config.json!\nProgram nie może wystartować.",
+  "error.config.invalid": "Nieprawidłowy config.json:",
+
+  "error.cards.invalid": "Błąd: brak pliku cards.json!",
+  "error.cards.meta.invalid": "Błąd: brak pliku cards.meta.json!",
+  "error.icons.invalid": "Błąd: brak folderu icons!",
+  "error.pngs.invalid": "Błąd: folder icons nie zawiera PNG!",
+  "error.cache.invalid": "Błąd: brak folderu cache!",
+  "error.cards.nd.invalid": "Błąd: brak pliku cards.ndjson w cache!",
+
+  "project.restored": "Projekt przywrócony pomyślnie.",
+  "project.loaded": "Projekt wczytany pomyślnie.",
+  "project.catolog": "Wybierz katolog projektu",
+
+  "welcome.title": "Generator Kart",
+  "welcome.error.invalid": "Niepoprawna ilość kart",
+  "welcome.load_project": "Wczytaj projekt",
+  "welcome.new_project": "Nowy projekt",
+  "welcome.no_project": "Nieznaleziono projektów do przywócenia.",
+  "welcome.session_detected": "Znaleziono nieukończony projekt: {saved} kart, łącznie {total}",
+  "welcome.restore": "Przywróć projekt",
+  "welcome.config": "Konfiguracja",
+
+  "config.title": "Konfiguracja",
+
+  "editor.title": "Karta {current} / {total}",
+
+  "field.name": "Nazwa (np. Wilk)",
+  "field.rarity": "Rzadkość",
+  "field.type": "Rodzaj",
+  "field.property": "Właściwość",
+  "field.accuracy": "Trafność (np. 10.5)",
+
+  "icon.instruction": "Instrukcja: Trzymaj lewy przycisk myszy i przeciągaj, aby przesunąć ikonę. Suwak myszy – przybliżenie/oddalenie.",
+
+  "button.pick_icon": "Wybierz ikonę",
+  "button.save_next": "Zapisz i przejdź dalej",
+
+  "advanced.title": "Lista kart",
+  "advanced.unavailable": "Ta funkcja jest niedostępna w tym trybie.",
+  "advanced.no_cards": "Brak zapisanych kart",
+
+  "error.icon_required": "Proszę wybrać ikonę",
+  "error.name_required": "Proszę wpisać nazwę",
+  "error.accuracy_number": "Trafność musi być liczbą (np. 4.5)",
+  "error.name_length": "Nazwa może mieć maks. 25 znaków",
+  "error.accuracy_int": "Trafność może mieć maks. 3 cyfry przed przecinkiem",
+
+  "finish.title": "✔ Gotowe",
+  "finish.saved": "Karty zapisane pomyślnie",
+  "finish.close": "Zamknij",
+
+  "filetypes.raster": "Obrazy rastrowe",
+  "filetypes.all": "Wszystkie pliki",
+
+  "intermediate.title": "Nowa sesja – wybierz liczbę kart",
+  "intermediate.enter_cards": "Wpisz liczbę kart (1-999):",
+  "intermediate.next": "Dalej"
+
+  
+}
