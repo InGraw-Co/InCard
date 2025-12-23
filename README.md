@@ -1,2 +1,6 @@
 # InCard Editor
-InCard Editor – a simple, free, and unique card editor developed in Poland. Create, customize, and manage your cards with ease. Completely open-source and designed for anyone who loves card games or wants to experiment with card design. Supports 20 languages! Try it now.
+
+**InCard Editor** is a free and open-source **collectible card editor**
+for fantasy, RPG and TCG games.
+
+Create, edit and export character cards with stats, images and layouts.
