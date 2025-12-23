@@ -4,3 +4,7 @@
 for fantasy, RPG and TCG games.
 
 Create, edit and export character cards with stats, images and layouts.
+
+
+YT Channel:
+https://www.youtube.com/@InGraw
