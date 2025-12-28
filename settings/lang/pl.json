@@ -12,7 +12,7 @@
   "lang.restart": "Aplikacja zostanie zrestartowana aby zastosować język.",
 
   "error.config.title": "Błąd konfiguracji",
-  "error.config.missing": "Brak pliku config.json!\nProgram nie może wystartować.",
+  "error.config.missing": "Brak katologu z konfiguracją!\nProgram nie może wystartować.",
   "error.config.invalid": "Nieprawidłowy config.json:",
 
   "error.cards.invalid": "Błąd: brak pliku cards.json!",
@@ -69,7 +69,11 @@
 
   "intermediate.title": "Nowa sesja – wybierz liczbę kart",
   "intermediate.enter_cards": "Wpisz liczbę kart (1-999):",
-  "intermediate.next": "Dalej"
+  "intermediate.next": "Dalej",
 
-  
+  "reset.data": "Resetuj dane",
+  "reset.data.confirm": "Czy na pewno chcesz zresetować wszystkie dane? Ta akcja jest nieodwracalna.",
+  "reset.data.success": "Wszystkie dane zostały zresetowane. Aplikacja zostanie teraz zamknięta.",
+  "config.reset_all_data": "Resetuj dane aplikacji",
+  "error.reset_data": "Błąd: {error}. Wszystko zostało przywrócone."
 }
