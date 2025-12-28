@@ -10,6 +10,7 @@ I created this project to quickly and comfortably create, edit and export charac
 <p align="center">
   <img src="assets/incard-gif.gif" alt="InCard Editor demo" width="500">
 </p>
+
 ---
 
 ## ✅ Key features
