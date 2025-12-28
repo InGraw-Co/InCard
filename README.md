@@ -7,6 +7,10 @@ I created this project to quickly and comfortably create, edit and export charac
 > SEO: card editor, collectible card editor, card generator, card editor app, TCG card creator, RPG card maker, Python
 
 ---
+<p align="center">
+  <img src="assets/incard-gif.gif" alt="InCard Editor demo" width="500">
+</p>
+---
 
 ## ✅ Key features
 
